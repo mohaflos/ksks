@@ -1,0 +1,5 @@
+token=Nzg4MTU0MzE3MDE3MzE3Mzg3.X9fX6A.eQD0TMuDizGOTJxCFsbDMvXKKO0
+prefix=$
+owner=618066741913976841
+stayinchannel=true
+updatealerts=false
